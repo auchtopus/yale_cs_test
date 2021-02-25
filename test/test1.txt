@@ -1,0 +1,8 @@
+asdf
+
+\def{test_macro}{some text #}
+\def{macro_fragment}{goes #}
+
+\test_macro{\macro_fragment}{here}
+
+

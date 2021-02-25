@@ -1,0 +1,7 @@
+
+\def{hello}{1}
+\def{x}{\undef{he#lo}}
+
+\x{l}
+
+\ifdef{hello}{1}{2}

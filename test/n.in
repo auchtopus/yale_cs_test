@@ -1,0 +1,7 @@
+
+\def{n}{\ifdef{#}{true}{false}}
+
+
+\n{n}
+
+\n{\ifdef{}}
